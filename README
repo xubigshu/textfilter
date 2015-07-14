@@ -7,3 +7,4 @@ USAGE:
     >>> f.add("sexy")
     >>> f.filter("hello sexy baby")
     hello **** baby
+add:xds
